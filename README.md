@@ -1,1 +1,0 @@
-# yavca.github.io
