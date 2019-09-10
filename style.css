@@ -3,7 +3,7 @@
   --body-color: #7a7a7a;
   --body-font-weight: 400;
   --link-color: #0074d9;
-  --link-color-hover: #c3c3c3;
+  --link-color-hover: rgb(105, 105, 105);
   --heading-color: #333;
   --heading-color-hover: #222;
   --hr-color: rgba(0,0,0,.1);
