@@ -192,10 +192,10 @@ h1, h2, h3 {
   color: #444;
 }
 .pc-tab ul li label:hover {
-  background: #dddddd;
+  background: #a2a2a238;
 }
 .pc-tab ul li label:active {
-  background: #ffffff;
+  background: #a2a2a238;
 }
 .pc-tab ul li:not(:last-child) label {
   border-right-width: 0;
@@ -240,7 +240,8 @@ h1, h2, h3 {
   background: white;
   color: #111;
   position: relative;
-  background: #eeeeee38;
+  background: #a2a2a238;
+  /* text-decoration: underline; */
 }
 /* #tab1:checked ~ nav .tab1 label:after,
 #tab2:checked ~ nav .tab2 label:after,
