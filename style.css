@@ -152,11 +152,7 @@ body {
   /* font-family: 'Raleway'; */
 }
 
-@media (min-width: 500px) {
-  body {
-    /* padding: 1.5rem; */
-  }
-}
+
 
 
 
@@ -276,12 +272,7 @@ body {
   background-position: 0;
 }
 
-@media (min-width: 500px) {
-  body {
-    /* padding: 1.5rem;
-    padding-bottom: 0; */
-  }
-}
+
 
 
 .overflow-scroll-gradient {
@@ -326,9 +317,7 @@ footer {
 
 
 
-html,body {
-  /* height: 100%; */
-}
+
 
 footer p {
   margin: 0;
