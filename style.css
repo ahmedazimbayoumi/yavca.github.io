@@ -352,3 +352,40 @@ body {
 h1 {
   color: var(--heading-color);
 }
+
+form {
+  display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+}
+
+.mb-3 {
+  margin-bottom: 1rem !important; 
+}
+
+form input,form textarea {
+  margin-bottom: 1rem;
+  border-radius: 3px;
+  border: 1px solid #7b7b7b;
+  width: 70%;
+  padding: 10px;
+  font-size: 15px;
+  background-color: #7373731f;
+  background-color: #ffffff30;
+}
+
+button {
+   margin-bottom: 1rem;
+    border-radius: 3px;
+    border: 1px solid #7b7b7b;
+    padding: 10px;
+    font-size: 15px;
+    background-color: #3e3d3dc7;
+    color: #d4d3d3;
+    cursor: pointer;
+    transition: background-color .2s ease-in-out;
+}
+
+button:hover {
+  background-color: #232323;
+}
